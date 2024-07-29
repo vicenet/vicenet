@@ -16,7 +16,7 @@ Here are some highlights from my work:
 - **[Stock Management System]** (https://github.com/vicenet/Stock_Management)
   ![Badge or Icon](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-- **[Kenya Welfare Group Webapp](link to project)** (https://github.com/Calrian-Technologies/Kenya-Welfare-Group)
+- **[Kenya Welfare Group Webapp]** (https://github.com/Calrian-Technologies/Kenya-Welfare-Group)
   ![Badge or Icon](https://img.shields.io/badge/Tech-Django-blue)
 
 
