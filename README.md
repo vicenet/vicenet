@@ -4,46 +4,37 @@ Welcome to my GitHub profile! I'm a Developer with a passion for Cyber Security 
 
 ## About Me
 
-- 🔭 **Currently working on:** [Kenya Welfare Group]
-- 🌱 **Learning:** [Learning Focus, e.g., "React Native", "Machine Learning", etc.]
-- 👯 **Looking to collaborate on:** [Collaboration Interests, e.g., "open source projects", "web development"]
-- 🤔 **Seeking help with:** [Challenges or Topics you're interested in]
-- 💬 **Ask me about:** [Topics you can help others with]
-- 📫 **Contact me:** [Your Contact Information, e.g., email or LinkedIn]
-- 😄 **Pronouns:** "he/him"
-- ⚡ **Fun fact:** [A fun fact about you]
+- 🔭 **Currently working on:** Kenya Welfare Group
+- 🌱 **Learning:** Javascript, Python. Frameworks are Django and React
+- 👯 **Looking to collaborate on:** "open source projects"
+
 
 ## 🌟 Featured Projects
 
 Here are some highlights from my work:
 
-- **[Project 1 Name](link to project)**: _A brief description of what this project is and its purpose._  
+- **[Stock Management System]** (https://github.com/vicenet/Stock_Management)
   ![Badge or Icon](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-- **[Project 2 Name](link to project)**: _Another project I'm excited about and what it does._  
+- **[Kenya Welfare Group Webapp](link to project)** (https://github.com/Calrian-Technologies/Kenya-Welfare-Group)
   ![Badge or Icon](https://img.shields.io/badge/Tech-Django-blue)
 
-- **[Project 3 Name](link to project)**: _A project showcasing my skills in [specific technology or area]._  
-  ![Badge or Icon](https://img.shields.io/badge/Focus-Data%20Science-yellow)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicenet&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenet&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/briangitaudeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/@mgbriann">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" alt="Twitter Badge" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome" alt="Website Badge" />
   </a>
 </div>
 
