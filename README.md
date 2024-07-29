@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a Developer with a passion for Cyber Security 
 Here are some highlights from my work:
 
 - **[Stock Management System]** (https://github.com/vicenet/Stock_Management)
-  ![Badge or Icon](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 - **[Kenya Welfare Group Webapp]** (https://github.com/Calrian-Technologies/Kenya-Welfare-Group)
-  ![Badge or Icon](https://img.shields.io/badge/Tech-Django-blue)
+ 
 
 
 ## 📊 GitHub Stats
