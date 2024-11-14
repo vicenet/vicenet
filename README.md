@@ -9,19 +9,6 @@ Welcome to my GitHub profile! I'm a Developer with a passion for Cyber Security 
 - 👯 **Looking to collaborate on:** "open source projects"
 # Brian Gitau's Projects and Interests
 
-## Financial and Household Management
-- Creating a home budget forecast and a detailed checklist for household items for a one-bedroom house in Kenya.
-- Interested in learning the best fonts to match icon designs.
-
-## Education and Curriculum Development
-- Developing a game concept to teach basic programming skills, focusing on Python.
-- Designing a curriculum for accounting, including legal and ethical aspects.
-- Building a project management course for mid-level managers in tech companies, focusing on Agile in large organizations.
-
-## Interior Design and Furniture
-- Designing modern, sleek, and portable furniture with a luxury feel.
-- Creating renter-friendly furniture, starting with a walnut kitchen table with drawers and a wooden TV stand.
-
 ## Branding and Naming
 - Exploring Swahili words for naming purposes.
 - Branding a sock line called 'Afrokiks.'
@@ -74,6 +61,8 @@ Here are some highlights from my work:
 
 
 - **[Kenya Welfare Group Webapp]** (https://github.com/Calrian-Technologies/Kenya-Welfare-Group)
+
+- **[Surveyors Court]** (https://surveyorscourt.com)
  
 
 
