@@ -1,6 +1,6 @@
 # Hi, I'm Brian Gitau 👋
 
-Full-stack developer based in Kenya, building web applications with **Python/Django** and **JavaScript/React**. Currently working at [@Calrian-Technologies](https://github.com/Calrian-Technologies), with a growing interest in cybersecurity.
+Full-stack developer based in Kenya, building web applications with **Python/Django** and **JavaScript/React**.
 
 ## 🛠 Tech Stack
 
